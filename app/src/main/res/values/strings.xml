@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeWork-three_two</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="StringName">Введите имя:</string>
+    <string name="dostupRegister">Для получения доступа пройдите регистрацию</string>
+    <string name="registratsionTwo">2 этап регистрации</string>
+    <string name="PlacePfStudy">Bаш aдрес учебы :</string>
+    <string name="work">Ваш адрес работы</string>
+</resources>
